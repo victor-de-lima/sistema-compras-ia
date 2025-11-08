@@ -1,1 +1,8 @@
-
+streamlit
+SQLAlchemy
+pandas
+openpyxl
+pytesseract
+pdf2image
+scikit-learn
+python-dotenv
